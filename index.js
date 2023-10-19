@@ -1,3 +1,6 @@
+// create a variable using a user-defined name.
+
+
 const varName = 'ritesh';
 const number = 1324;
 
